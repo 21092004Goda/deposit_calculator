@@ -21,3 +21,13 @@
 Сумма вклада увеличится в 2 раза через 8 лет.
 ```
 ![image](https://github.com/user-attachments/assets/39838035-ff66-462e-83ad-510d52d61139)
+
+
+Версия Java
+```
+PS C:\Users\samb2\IdeaProjects\deposit_calculator> java -version
+openjdk version "22" 2024-03-19
+OpenJDK Runtime Environment (build 22+36-2370)
+OpenJDK 64-Bit Server VM (build 22+36-2370, mixed mode, sharing)
+
+```
