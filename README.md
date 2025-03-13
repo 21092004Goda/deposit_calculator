@@ -20,3 +20,4 @@
 
 Сумма вклада увеличится в 2 раза через 8 лет.
 ```
+![image](https://github.com/user-attachments/assets/39838035-ff66-462e-83ad-510d52d61139)
